@@ -1,4 +1,4 @@
-this problem was asked by Google.
+This problem was asked by Google.
 
 A unival tree (which stands for "universal value") is a tree where all nodes under it have the same value.
 
